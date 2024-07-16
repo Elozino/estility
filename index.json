@@ -1,0 +1,99 @@
+[
+  {
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria",
+      "nativeName": {
+        "eng": {
+          "official": "Federal Republic of Nigeria",
+          "common": "Nigeria"
+        }
+      }
+    },
+    "tld": [],
+    "cca2": "NG",
+    "ccn3": "566",
+    "cca3": "NGA",
+    "cioc": "NGR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "NGN": {
+        "name": "Nigerian naira",
+        "symbol": "₦"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "34"
+      ]
+    },
+    "capital": [
+      "Abuja"
+    ],
+    "altSpellings": [
+      "NG",
+      "Nijeriya",
+      "Naíjíríà",
+      "Federal Republic of Nigeria"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {},
+    "latlng": [
+      10,
+      8
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 923768,
+    "demonyms": {},
+    "flag": "🇳🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LTn417qWwBPFszuV9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192787"
+    },
+    "population": 206139587,
+    "gini": {
+      "2018": 35.1
+    },
+    "fifa": "NGA",
+    "car": {
+      "signs": [
+        "WAN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ng.png",
+      "svg": "https://flagcdn.com/ng.svg",
+      "alt": "The flag of Nigeria is composed of three equal vertical bands of green, white and green."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ng.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ng.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        9.08,
+        7.53
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  }
+]
