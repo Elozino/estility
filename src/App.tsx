@@ -51,7 +51,10 @@ function App() {
                   </Card.Header>
                   <Content icon="🧑‍🤝‍🧑" text={item?.population} />
                   <Content icon="📢" text={item?.languages?.eng} />
-                  <Content icon="💵" text={Object.keys(item?.currencies)[0] + ", " + item?.currencies[Object.keys(item?.currencies)[0]]?.symbol} />
+                  <Content icon="💵"
+                  // @ts-expect-error Element implicitly has an 'any' type because expression of type 'string' can't be used to index type 'Currencies'.  No index signature with a parameter of type 'string' was found on type 'Currencies'
+                    text={Object.keys(item?.currencies)[0] + ", " + item?.currencies[Object.keys(item?.currencies)[0]]?.symbol}
+                  />
                 </Card.Content>
               </Card>
               <Card>
